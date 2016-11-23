@@ -5,7 +5,7 @@ Proof of Concept and submissions of HTTPS bug.
 ## Description
 
 The authentication and registration for the platform of RobotDon occurs entirely on
-`tools.robotdon.com`. However, this domain has **no HTTPS support whatsoever*.
+`tools.robotdon.com`. However, this domain has **no HTTPS support whatsoever**.
 
 Due to this, the application is susceptible to a number of MiTM-related attacks. One
 of these attacks is the combination of arp spoofing, dns spoofing, and setting up a 
