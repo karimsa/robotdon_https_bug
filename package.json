@@ -1,0 +1,19 @@
+{
+  "name": "robotdon_https_bug",
+  "version": "1.0.0",
+  "description": "Proof of Concept of the HTTPS bug in robotdon.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimsa/robotdon_https_bug.git"
+  },
+  "author": "Karim Alibhai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karimsa/robotdon_https_bug/issues"
+  },
+  "homepage": "https://github.com/karimsa/robotdon_https_bug#readme"
+}
