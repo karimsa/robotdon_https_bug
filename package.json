@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/karimsa/robotdon_https_bug/issues"
   },
-  "homepage": "https://github.com/karimsa/robotdon_https_bug#readme"
+  "homepage": "https://github.com/karimsa/robotdon_https_bug#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-http-proxy": "^0.10.1"
+  }
 }
